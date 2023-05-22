@@ -1,2 +1,6 @@
 test2
 test3
+
+
+lang="ja"
+japanese
