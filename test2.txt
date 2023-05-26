@@ -4,3 +4,4 @@ test3
 
 lang="ja"
 japanese
+English
